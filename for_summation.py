@@ -6,4 +6,4 @@ for i in range(num) :
     t = t + 1
     x = x + t
    
-print(x
+print(x)
