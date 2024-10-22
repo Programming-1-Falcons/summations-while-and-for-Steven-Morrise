@@ -1,9 +1,9 @@
 num = int(input("Input a number"))
 x = 0
 t = 0
-a = 0
-while a < num :
+
+for i in range(num) :
     t = t + 1
     x = x + t
-    a = a + 1
-print(x)
+   
+print(x
